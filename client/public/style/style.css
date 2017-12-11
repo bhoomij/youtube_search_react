@@ -21,3 +21,7 @@
 .list-group-item:hover {
     background-color: #eee;
 }
+
+.video-list-item:hover {
+    cursor: pointer;
+}
